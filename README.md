@@ -2,178 +2,134 @@ TAKTIK | تكتيك
 
 Project Overview
 
-TAKTIK is a smart match-day experience platform designed to support visitors in Saudi Arabia during major sporting events, especially the FIFA World Cup 2034.
+TAKTIK is a smart platform created to make the match day experience easier for visitors during the FIFA World Cup 2034 in Saudi Arabia.
 
-The platform brings the visitor’s match-day needs into one connected journey, from selecting a match and stadium to discovering restaurants, local activities, and accommodation, instead of relying on multiple platforms.
+The idea is to bring the main things a visitor may need into one place. Users can choose their match and stadium, find nearby restaurants and hotels, explore local activities, and plan their day around the match.
 
 One Match. One Plan. One Experience.
 
-⸻
-
 Key Features
 
-* 🏟️ Match & Stadium Selection
-    * Select a match and its associated stadium.
-    * View essential match-day information.
-* 🗺️ Match-Day Planning
-    * Create a plan based on the match time and location.
-    * Organize activities before and after the match.
-* 🍽️ Restaurant Recommendations
-    * Discover restaurants near the stadium.
-    * Find suitable dining options before or after the match.
-* 🏨 Accommodation Recommendations
-    * Discover suitable accommodation options near match locations.
-* 🏜️ Local Activities
-    * Explore cultural, tourism, and local activities suitable for visitors.
-* 🚗 Transportation
-    * Support visitor transportation planning around the match-day experience.
+Match and Stadium Selection
 
-⸻
+Users can choose a match and view the stadium and important match information.
+
+Match Day Planning
+
+Users can organize their day based on the match time and location, including activities before and after the match.
+
+Restaurant Recommendations
+
+The platform shows restaurant options near the stadium, making it easier for visitors to decide where to eat before or after the match.
+
+Accommodation
+
+Users can explore accommodation options close to the match location.
+
+Local Activities
+
+Visitors can discover cultural, tourism, and local activities to include in their trip.
+
+Transportation
+
+The platform also helps visitors plan their transportation around the match day.
 
 Getting Started
 
-1. Clone the Repository
+Clone the Repository
 
-Clone the project from the project’s GitHub repository:
+Clone the project from GitHub:
 
-[git clone [GitHub Repository URL]
-](https://github.com/Renad87/Unit_1.project_Taktik.git)
-Then navigate to the project folder:
+git clone https://github.com/Renad87/Unit_1.project_Taktik.git
+
+Then open the project folder:
 
 cd TAKTIK
 
-2. Install Streamlit
+Install Streamlit
 
-Make sure Python is installed on your device, then install Streamlit:
+Make sure Python is installed, then install Streamlit:
 
 pip install streamlit
 
-3. Run the Project
+Run the Project
 
-Open the project in Visual Studio Code, open the Terminal, and run:
+Open the project in Visual Studio Code and open the Terminal. Run:
 
 streamlit run app.py
 
-The application will then launch in your browser.
-
-⸻
+The application will open in the browser.
 
 Usage
 
-1. Open the TAKTIK platform.
-2. Select a match and stadium.
-3. View the information related to the selected match.
-4. Explore restaurant, accommodation, and activity recommendations.
-5. Select the options that fit your preferences.
-6. Get a complete match-day plan.
+Open the TAKTIK platform and select a match and stadium. After that, users can view the match information and explore nearby restaurants, accommodation, activities, and transportation options.
+
+The user can then choose the options that fit their plans and create a complete match day experience.
 
 User Journey
 
-Select Match
-     ↓
-Identify Stadium & Time
-     ↓
-Restaurant, Activity & Accommodation Suggestions
-     ↓
-Organize the Journey
-     ↓
-Complete Match-Day Plan
+Select a Match
 
-⸻
+Identify the Stadium and Match Time
+
+Explore Restaurants, Activities, and Accommodation
+
+Organize the Day
+
+Get a Complete Match Day Plan
 
 Tech Stack
 
-Programming Language
+Programming Language: Python
 
-* Python
+Framework: Streamlit
 
-Framework
+Database: No database is used in the current version.
 
-* Streamlit
+Libraries: Streamlit
 
-Database
+UI Design: Streamlit and CSS
 
-* No database is used in the current version.
+Value and Impact
 
-Libraries
+TAKTIK is designed to make the visitor experience easier by bringing different parts of the match day into one platform.
 
-* Streamlit
+It can also help connect visitors with local restaurants, hotels, and activities, which can support local businesses and encourage visitors to explore more of the city.
 
-UI Design
-
-The user interface was designed using:
-
-* Streamlit
-* CSS
-
-⸻
-
-Value & Impact
-
-TAKTIK is not limited to organizing a fan’s match-day schedule. It aims to create a broader impact through:
-
-Connected Visitor Journey
-
-Bringing different parts of the visitor’s journey into one platform instead of requiring multiple applications.
-
-Supporting Local Spending
-
-Connecting visitors with local restaurants, hotels, and activities to help direct visitor spending toward the local economy.
-
-Supporting Mega-Events
-
-Contributing to a smoother and smarter digital experience for visitors during major sporting events and large-scale events.
-
-⸻
+The platform can also support the digital experience of large sporting events such as the FIFA World Cup 2034.
 
 Future Development
 
-TAKTIK can be further developed to include:
-
-* 🤖 AI-powered hyper-personalized itineraries.
-* 🚦 Live traffic and transportation updates.
-* 💳 Integrated booking and payment services.
-* 💬 Multilingual AI concierge.
-* 📊 Crowd movement and visitor analytics.
-* 📍 Improved recommendations based on match location and timing.
-
-⸻
+In the future, TAKTIK could include AI powered personalized plans, live traffic and transportation updates, booking and payment services, a multilingual AI assistant, crowd analytics, and more accurate recommendations based on the match location and time.
 
 Contributing
 
-Contributions that help improve TAKTIK and its user experience are welcome.
+Contributions to improve TAKTIK are welcome.
 
-To contribute:
+To contribute, fork the repository, create a new branch, make your changes, test them, and then submit a Pull Request.
 
-1. Create a Fork of the repository.
-2. Create a new branch for your changes.
-3. Make and test your changes.
-4. Submit a Pull Request with a clear description of the changes.
-
-You can also report bugs or suggest new features through the Issues section of the GitHub repository.
-
-⸻
+You can also use the Issues section on GitHub to report problems or suggest new ideas.
 
 Team
 
-* Joud Alruwaili
-* Renad Aloufi
-* Layan Bin Shaheen
-* Ghadi Alshahrani
+Joud Alruwaili
 
-⸻
+Renad Aloufi
+
+Layan Bin Shaheen
+
+Ghadi Alshahrani
 
 Brand Identity
 
 TAKTIK | تكتيك
 
-The brand identity combines a modern digital style with Saudi cultural elements, inspired by geometric patterns derived from Sadu, reflecting Saudi heritage and the spirit of major sporting events.
-
-⸻
+The identity combines a modern digital style with Saudi cultural elements. The design is inspired by geometric patterns from Sadu and reflects Saudi heritage while keeping a modern look suitable for a global sporting event.
 
 Slogan
 
 One Match. One Plan. One Experience.
 
 TAKTIK
-Redefining the digital match-day experience for Saudi Arabia 2034.
+
+Redefining the digital match day experience for Saudi Arabia 2034.
